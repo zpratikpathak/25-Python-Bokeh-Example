@@ -522,3 +522,5 @@ Steps to contribute:
 ## Conclusion 
 
 In this Repo I have shared you 25+ Python Bokeh examples which can help you to learn python bokeh. Feel free to contribute to our github repo and keep it updated.
+
+Originally Published at [25+ Python Bokeh Example](https://pratikpathak.com/25-python-bokeh-example-learn-bokeh-from-examples/)
